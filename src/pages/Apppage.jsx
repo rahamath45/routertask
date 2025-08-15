@@ -1,4 +1,6 @@
-import ProductApp from "../components/productApp";
+import ProductApp from "../components/ProductApp";
+
+
 
 function Apppage({products,cart}){
     return(
