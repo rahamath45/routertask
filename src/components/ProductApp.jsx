@@ -1,5 +1,5 @@
  import Allproductcart from "./Allproductcart";
-import Navtopic from "./navtopic";
+import Navtopic from "./Navtopic";
 
  function ProductApp({products,cart}){
     return(
