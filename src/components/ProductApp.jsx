@@ -1,4 +1,4 @@
-import Allproductcart from "./Allproductcart";
+ import Allproductcart from "./Allproductcart";
 import Navtopic from "./navtopic";
 
  function ProductApp({products,cart}){
